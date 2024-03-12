@@ -44,4 +44,11 @@ for (const key in users) {
 
 // }
 
-// console.log(user1);
+console.log(user1);
+
+user1 = {
+    userName: "tarek",
+
+}
+
+console.log(user1);
