@@ -22,3 +22,7 @@ user1.display();
 
 let user2 = new User("sumu", 23);
 user1.display();
+
+let user3 = new User("rabbi", 29);
+user1.display();
+
