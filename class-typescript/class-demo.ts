@@ -26,3 +26,6 @@ user1.display();
 let user3 = new User("rabbi", 29);
 user1.display();
 
+let user4 = new User("rabbi", 29);
+user1.display();
+
